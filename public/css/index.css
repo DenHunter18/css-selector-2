@@ -20,7 +20,8 @@
 }
 
 .lesson-four-task-six .btn:focus {
-  background-color: orange;
+  color: orange;
+  background: orange;
 }
 
 .lesson-four-task-seven #target:target {
